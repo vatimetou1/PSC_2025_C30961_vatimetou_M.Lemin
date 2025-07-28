@@ -84,4 +84,4 @@ Python demeure le choix privilégié pour des projets diversifiés grâce à sa 
 
 Mojo se positionne comme une solution puissante pour ceux qui cherchent à combiner performance de bas niveau et syntaxe Python, particulièrement dans les domaines de l’IA et du calcul intensif.
 
-Julia représente une alternative solide dans le monde scientifique, alliant rapidité et expressivité, idéale pour les chercheurs et data scientists.
+Julia représente une alternative solide dans le monde scientifique, alliant rapidité et expressivité, idéale pour les chercheurs et data scientists
