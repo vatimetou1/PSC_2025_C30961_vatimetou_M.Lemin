@@ -42,4 +42,4 @@ Cross-platform Code Generation : générer automatiquement du code pour plusieur
 
 Évaluation plus réaliste : développer des benchmarks basés sur des projets industriels réels plutôt que sur des maquettes synthétiques.
 
-Fine-tuning des modèles VLM pour des interfaces complexes (dashboards, jeux, etc.).
+Fine-tuning des modèles VLM pour des interfaces complexes (dashboards, jeux, etc.)

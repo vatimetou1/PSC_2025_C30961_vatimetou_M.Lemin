@@ -281,7 +281,7 @@ python
   
   
 s = {1, 2, 3, 3}
-Ajout / retrait :
+Ajout / retrait 
 
 python
   
